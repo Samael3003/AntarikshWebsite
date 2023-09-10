@@ -14,17 +14,20 @@ function About() {
 			<img
 				src={Img1}
 				alt="Arfan"
-				className="w-full md:w-6/12 rounded-lg object-cover"
+				className="w-240 rounded-lg object-cover"
+				style={{ width: '240px' }}
 			/>
 			<img
 				src={Img2}
 				alt="Arfan"
-				className="w-full md:w-6/12 rounded-lg object-cover"
+				className="w-240 rounded-lg object-cover"
+				style={{ width: '240px' }}
 			/>
 			<img
 				src={Img3}
 				alt="Arfan"
-				className="w-full md:w-6/12 rounded-lg object-cover"
+				className="w-240 rounded-lg object-cover"
+				style={{ width: '240px' }}
 			/>
 		</div>
 	);
