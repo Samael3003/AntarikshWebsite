@@ -8,7 +8,7 @@ function About() {
 	return (
 		<div className="flex flex-col md:flex-row items-center justify-center gap-10 md:gap-20 py-12">
 			<div className="w-full md:w-6/12">
-				<SectionTitle>Social Media Links :</SectionTitle>
+				<SectionTitle>Social Media Links:</SectionTitle>
 			</div>
 
 			<img
