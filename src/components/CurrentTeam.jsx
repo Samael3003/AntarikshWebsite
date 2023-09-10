@@ -65,7 +65,7 @@ const teamMembers = [
   {
     title: 'Aditya Bhoite',
     imgUrl: 'https://images.hdqwalls.com/wallpapers/planet-space-mars-4k-8l.jpg', // Replace with actual image URLs
-    tech: ['Role: Core Member', 'Edu: B.Tech Mech'],
+    tech: ['Role: Core Member', 'Edu: B.Tech Instru.'],
     workUrl: 'https://example.com/jane-smith-profile',
   },
   {
