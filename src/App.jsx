@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import About from './components/About';
 import Footer from './components/Footer';
 import HeroSection from './components/HeroSection';
 import Services from './components/Services';
@@ -43,7 +42,6 @@ function App() {
 			<div className="bg-white dark:bg-slate-900 min-h-screen font-inter ">
 				<div className="max-w-5xl w-11/12 mx-auto">
 					<HeroSection />
-					<About />
 					<Services />
 					<Works />
 					<CurrentTeam/>
