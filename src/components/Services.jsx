@@ -17,6 +17,16 @@ function Services() {
 					/>
 				))}
 			</div>
+			<div className="text-center mt-5">
+        			<a
+          			href="https://antariksh-gallery.vercel.app/"
+          			className="bg-indigo-600 text-white py-6 px-8 rounded-md hover:bg-indigo-700 text-sm"
+      			        target="_blank"
+          			rel="noreferrer"
+        			>
+          				VIEW MORE ...
+        			</a>
+      			</div>
 		</div>
 	);
 }
