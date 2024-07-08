@@ -41,4 +41,18 @@ export default [
 		tech: ['React JS', 'CSS'],
 		workUrl: 'https://www.linkedin.com/pulse/antariksh-clubs-spectacular-presentation-chandrayaan-3/?trackingId=K4CJ2%2Bs%2Bc31ZRHQGzRbz0g%3D%3D',
 	},
+	{
+		title: ' Antariksh Club Spectacular Presentation of Chandrayaan-3 Lunar Landing, @Mumbai ',
+		imgUrl:
+			'https://media.licdn.com/dms/image/D5612AQH4PUmPVROpfg/article-cover_image-shrink_423_752/0/1693042627757?e=1698883200&v=beta&t=IakR-9xrvLmzC3DbVpnFDRPw5Udo3Hf_YyfPctbEmBU',
+		tech: ['React JS', 'CSS'],
+		workUrl: 'https://www.linkedin.com/pulse/antariksh-clubs-spectacular-presentation-chandrayaan-3/?trackingId=K4CJ2%2Bs%2Bc31ZRHQGzRbz0g%3D%3D',
+	},
+	{
+		title: ' Antariksh Club Spectacular Presentation of Chandrayaan-3 Lunar Landing, @VIIT,Pune ',
+		imgUrl:
+			'https://media.licdn.com/dms/image/D5612AQH4PUmPVROpfg/article-cover_image-shrink_423_752/0/1693042627757?e=1698883200&v=beta&t=IakR-9xrvLmzC3DbVpnFDRPw5Udo3Hf_YyfPctbEmBU',
+		tech: ['React JS', 'CSS'],
+		workUrl: 'https://www.linkedin.com/pulse/antariksh-clubs-spectacular-presentation-chandrayaan-3/?trackingId=K4CJ2%2Bs%2Bc31ZRHQGzRbz0g%3D%3D',
+	},
 ];
